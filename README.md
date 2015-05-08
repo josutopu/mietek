@@ -1,22 +1,22 @@
 [![][ButlerImage]][website] 
 
 # About
-In a nutshell, Jenkins CI is the leading open-source continuous integration server. Built with Java, it provides over 1000 plugins to support building and testing virtually any project.
+In a nutshell, Mietek CI is the leading open-source continuous integration server. Built with Java, it provides over 1000 plugins to support building and testing virtually any project.
 
 # Downloads
 Non-source downloads such as WAR files and several Linux packages can be found on our [Mirrors].
 
 # Source
-Our latest and greatest source of Jenkins CI can be found on [GitHub]. Fork us!
+Our latest and greatest source of Mietek CI can be found on [GitHub]. Fork us!
 
-# Contributing to Jenkins
+# Contributing to Mietek
 Follow [contributing](CONTRIBUTING.md) file.
 
 # News and Website
-All information about Jenkins CI can be found on our [website]. Follow us on Twitter [@jenkinsci].
+All information about Mietek CI can be found on our [website]. Follow us on Twitter [@jenkinsci].
 
 # License
-Jenkins is **licensed** under the **[MIT License]**. The terms of the license are as follows:
+Mietek is **licensed** under the **[MIT License]**. The terms of the license are as follows:
 
     The MIT License (MIT)
 
@@ -40,7 +40,7 @@ Jenkins is **licensed** under the **[MIT License]**. The terms of the license ar
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
     THE SOFTWARE.
 
-[ButlerImage]: http://jenkins-ci.org/sites/default/files/jenkins_logo.png
+[ButlerImage]: http://oi61.tinypic.com/34jdld5.jpg
 [MIT License]: https://github.com/jenkinsci/jenkins/raw/master/LICENSE.txt
 [Mirrors]: http://mirrors.jenkins-ci.org
 [GitHub]: https://github.com/jenkinsci/jenkins
